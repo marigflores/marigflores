@@ -1,16 +1,15 @@
-## Hi there 👋
+## Yooo! I'm Marisa. A girl in my development arc. 
 
-<!--
-**marigflores/marigflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌺 there are a few things you should know about me:
 
-Here are some ideas to get you started:
+  🎀i like doing tech experiments and playing with some cool tools i find online, so some repos maybe chaotic.
+  🎀i'm a Software Development college student in Brazil trying my best.
+  🎀i'm currently studying many topics such as app, web and game development, reviewing my knowledge on fixing old
+  computers and learning through play about security concepts in secured environments. I'll be putting some of those
+  studies here along with personal projects.
+  🎀i love cats, books, running and musicals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🎀fun fact: Linux is amazing <3
+  🎀relaxation-tip: stargazing.
+
+💽Instagram: @marisaflores404
