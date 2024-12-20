@@ -12,8 +12,6 @@ There are a few things you should know about me:
   
 🎀i love cats, books, running and musicals.
 
-🎀fun fact: Linux is amazing <3
-
-🎀relaxation-tip: stargazing.
+🎀Linux is amazing <3
 
 💽Instagram: @marisaflores404
