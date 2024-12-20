@@ -1,6 +1,6 @@
 ## Yooo! I'm Marisa. A girl in my development arc. 
 
-🌺 There are a few things you should know about me:
+There are a few things you should know about me:
 
 🎀i like doing tech experiments and playing with some cool tools i find online, so some repos maybe chaotic.
 
