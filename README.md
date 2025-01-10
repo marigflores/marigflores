@@ -1,17 +1,15 @@
-## Yooo! I'm Marisa. A girl in my development arc. 
+## Hello, I'm Marisa, nice to meet you stranger :)
 
-There are a few things you should know about me:
+There are a few things you can know about me:
 
-🎀 I like doing tech experiments and playing with some cool tools i find online, so some repos maybe chaotic.
+🎀 I like playing with some cool tech i find online, so some repos maybe chaotic but always secured.
 
-🎀 I'm a Software Development college student in Brazil trying my best.
+🎀 I'm a Software Analysis and Development college student in Brazil doing my best to graduate.
 
-🎀 I'm currently studying many topics such as app, web and game development, reviewing my knowledge on fixing old
-  computers and learning through play about security concepts in secured environments. I'll be putting some of those
-  studies here along with personal projects.
-  
-🎀 I love cats, books, running and musicals.
+🎀 My main study topics are: web development, data science, core computer science concepts and twinking with hardware. I also play CTFs to learn security and how systems work. And have already tried game development with Godot Engine a few years ago.
 
-🎀Linux is amazing <3
+🎀 I find books, running, music, pixel art games and learning very nice.
 
-💽Instagram: @marisaflores404
+🎀I use, per now: Python, Java and Online environments. 
+
+💽Instagram: @maris.floores
