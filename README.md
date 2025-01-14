@@ -11,5 +11,3 @@ There are a few things you can know about me:
 🎀 I find books, running, music, pixel art games and learning very nice.
 
 🎀I use, per now: Python, Java and Online environments. 
-
-💽Instagram: @maris.floores
